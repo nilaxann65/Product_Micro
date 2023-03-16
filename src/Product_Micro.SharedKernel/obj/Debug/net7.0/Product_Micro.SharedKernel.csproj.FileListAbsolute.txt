@@ -1,0 +1,12 @@
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\bin\Debug\net7.0\Product_Micro.SharedKernel.deps.json
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\bin\Debug\net7.0\Product_Micro.SharedKernel.dll
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\bin\Debug\net7.0\Product_Micro.SharedKernel.pdb
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\Product_Micro.SharedKernel.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\Product_Micro.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\Product_Micro.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\Product_Micro.SharedKernel.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\Product_Micro.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\Product_Micro.SharedKernel.dll
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\refint\Product_Micro.SharedKernel.dll
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\Product_Micro.SharedKernel.pdb
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.SharedKernel\obj\Debug\net7.0\ref\Product_Micro.SharedKernel.dll

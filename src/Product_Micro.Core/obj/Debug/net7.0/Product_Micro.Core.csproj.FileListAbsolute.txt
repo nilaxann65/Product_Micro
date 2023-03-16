@@ -1,0 +1,15 @@
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\bin\Debug\net7.0\Product_Micro.Core.deps.json
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\bin\Debug\net7.0\Product_Micro.Core.dll
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\bin\Debug\net7.0\Product_Micro.Core.pdb
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\bin\Debug\net7.0\Product_Micro.SharedKernel.dll
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\bin\Debug\net7.0\Product_Micro.SharedKernel.pdb
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\Product_Micro.Core.csproj.AssemblyReference.cache
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\Product_Micro.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\Product_Micro.Core.AssemblyInfoInputs.cache
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\Product_Micro.Core.AssemblyInfo.cs
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\Product_Micro.Core.csproj.CoreCompileInputs.cache
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\Product_Micro.Core.csproj.CopyComplete
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\Product_Micro.Core.dll
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\refint\Product_Micro.Core.dll
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\Product_Micro.Core.pdb
+C:\Users\prisc\OneDrive\Imágenes\Escritorio\Jose Armando\Projects\practica\Product_Micro\src\Product_Micro.Core\obj\Debug\net7.0\ref\Product_Micro.Core.dll

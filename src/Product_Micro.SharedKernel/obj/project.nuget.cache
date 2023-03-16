@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "4qBnZ9slc5u9X8tZh4pxOhdLuc9bsTD2olwya3ktfDRDxndhY6ajCYw+O2mBwBWSLylXLs6MbuLseVSEK87/HA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\prisc\\OneDrive\\Imágenes\\Escritorio\\Jose Armando\\Projects\\practica\\Product_Micro\\src\\Product_Micro.SharedKernel\\Product_Micro.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\prisc\\.nuget\\packages\\ardalis.specification\\6.1.0\\ardalis.specification.6.1.0.nupkg.sha512",
+    "C:\\Users\\prisc\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\prisc\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
